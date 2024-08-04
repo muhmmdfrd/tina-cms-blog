@@ -10,7 +10,7 @@ interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
 	author: 'Muhammad Farid',
-	title: 'Bithubby Author',
+	title: 'safeplace.id',
 	description: 'A passionate developer who loves turning ideas into code. Love music and writing',
 	lang: 'en-GB',
 	ogLocale: 'en_GB',

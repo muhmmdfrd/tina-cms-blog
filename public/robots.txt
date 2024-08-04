@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://casava.bithubby.com/sitemap-index.xml
+Sitemap: https://safeplace.id/sitemap-index.xml
